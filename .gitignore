@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-.venv
+.venv/
 
 # Distribution / packaging
 .Python
@@ -129,3 +129,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
